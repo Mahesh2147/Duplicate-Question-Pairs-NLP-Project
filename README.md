@@ -92,15 +92,13 @@ Insights and Conclusion from the Notebooks
     	Only BoW-based models perform moderately well but are improved by additional features.
     	Using token, length, and fuzzy features improves model generalization.
 ```
-2. Conclusion: 
-  Feature engineering significantly boosts model performance.
-  BoW is a good starting point, but it lacks deep semantic understanding (TF-IDF or Word Embeddings like Word2Vec/BERT        could improve results).
-  XGBoost is the best-performing model, making it a strong candidate for final deployment.
+2. Conclusion:
+   
+  i.Feature engineering significantly boosts model performance.
+  ii.BoW is a good starting point, but it lacks deep semantic understanding (TF-IDF or Word Embeddings like Word2Vec/BERT        could improve results).
+  iii.XGBoost is the best-performing model, making it a strong candidate for final deployment.
 
-  Further improvements could include:  
-    	Adding TF-IDF features to balance word importance.
-    	Exploring deep learning models (LSTMs or transformers).
-    	Handling class imbalance to prevent bias toward non-duplicate questions.
+
 
 
 
