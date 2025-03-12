@@ -93,13 +93,13 @@ Insights and Conclusion from the Notebooks
     	Using token, length, and fuzzy features improves model generalization.
 ```
 2. Conclusion:
-   
-  i.Feature engineering significantly boosts model performance.
+``` 
+  i. Feature engineering significantly boosts model performance.
   
-  ii.BoW is a good starting point, but it lacks deep semantic understanding (TF-IDF or Word Embeddings like Word2Vec/BERT        could improve results).
+  ii. BoW is a good starting point, but it lacks deep semantic understanding (TF-IDF or Word Embeddings like Word2Vec/BERT        could improve results).
   
-  iii.XGBoost is the best-performing model, making it a strong candidate for final deployment.
-
+  iii. XGBoost is the best-performing model, making it a strong candidate for final deployment.
+```
 
 
 
